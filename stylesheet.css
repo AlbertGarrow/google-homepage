@@ -20,6 +20,19 @@ input[type=submit] {
     line-height: 27px;
 }
 
+#navbar {
+    text-align: right;
+    display: inline;
+}
+
+li {
+    display: inline;
+    font-family: arial;
+    margin: 1em;
+    vertical-align: middle;
+    font-size: 13px;
+}
+
 div {
 	text-align: center;
 }
